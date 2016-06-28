@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\wangshanlin.QTNJ\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_f6957dad3b178427d9625b713b30a5430141005c\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_dbb43b980bca7f79813c979ea1d73c985b70548f\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_073b8facd6970d577fc8a8cbfcfa78cfe0aac33d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wangshanlin.QTNJ\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_0f475d58b81337bc378f2d1aeaaee71c75196072\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wangshanlin.QTNJ\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_1ed8de296af78b8a4fb0a4df8f6a339bfa2d40da\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="15dedeaa4f47e25495a99a107546b742edd04cea">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4cd320d693ad3d83e51a93a1d16d94d4b37aeaf9\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_c6c5d4b895940840584957ade197abe8700a74ae\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_1f1c7fc8bf6c78a4fa8a2d8104c489eb68eb4468\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wangshanlin.QTNJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_dbf1cbf3225fb0518f172938fd7377e850a7fd37\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_3b96cc81007dac83c2ceb07a7e8101c7840bad44\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wangshanlin.QTNJ\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_5702d08a0a5de251a51c8b3b25b4542d531f3c15\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\libs\GraphView-4.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-4.0.1_625b05149485faa7cb9569e5b12ffb1e497a71be\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_c50145855a0146482e56272e1dc35bf6cf18f8bc\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_ebcb8ea49e6ab5eea3b85b0148040ae26008dae7\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_f4d455e71556bff9534264824a3aa3e0e3e97b13\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cbafd989864aae311b98be533933188f71cb3e6c">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6c107feca2bb53b48eed872350f9e81698ab20e\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_535f562e47259e17f568f2a8935da755a9d9d527\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_4b4c74eb42eef235ba3d55aee4f2708fb0ae1f22\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_2d625fd2f4aec6832163eb30c92721e41707b01f\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_58d539f4a47ca31429bb3e2d5539313cfdfc7688\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wangshanlin.QTNJ\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_180e5aa9d96dba23161ffce436e19df950db57dc\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_74a68e764ac3658881f704d525cd9fb2f05fb97e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wangshanlin.QTNJ\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_c16485b97dfa7be5aa2546b175652e27ac45ffea\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_c45efb3a0d7be4872a4c4ff298ea79869c53cf15\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_b1323975bf6c9b8b6049c1626e84521098990f3e\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_bbd67cb4df60334df9330b2178287b7b13cd24ce\classes.dex" />
+    </item>
+    <item
+        jar="H:\VirtualStock\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="H:\VirtualStock\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_4825a466379343d26f2c9efd016bdc4dd01a3b58\classes.dex" />
+    </item>
+
+</items>
