@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+
+    <TextView
+        android:layout_width="195dp"
+        android:layout_height="40dp"
+        android:text=""
+        android:id="@+id/stockowned"
+
+        />
+<TextView
+    android:layout_width="195dp"
+    android:layout_height="40dp"
+    android:text=""
+    android:id="@+id/fundtospend"
+    />
+
+
+    </LinearLayout>
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        >
+
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="number of stocks"
+            android:textColor="#000912"
+            android:textSize="22dp"
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="      "
+                android:inputType="time"
+                android:textSize="20dp"
+                android:text="0"
+                android:layout_centerHorizontal="true"
+
+                android:id="@+id/stocksold"
+
+
+                />
+        </RelativeLayout>
+
+
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:orientation="horizontal"
+            >
+            <Button
+                android:layout_width="75dp"
+                android:layout_height="wrap_content"
+
+                android:text="up"
+                android:id="@+id/increase"
+                />
+            <Button
+                android:layout_width="75dp"
+                android:layout_height="wrap_content"
+
+                android:text="down"
+                android:id="@+id/decrease"
+                />
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="mngot"
+            android:textSize="40dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/moneygot"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        >
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="number of stocks"
+            android:textColor="#000912"
+            android:textSize="22dp"
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="      "
+                android:inputType="time"
+                android:textSize="20dp"
+                android:text="0"
+                android:layout_centerHorizontal="true"
+
+                android:id="@+id/stockbought"
+
+
+                />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:orientation="horizontal"
+            >
+            <Button
+                android:layout_width="75dp"
+                android:layout_height="wrap_content"
+
+                android:text="up"
+                android:id="@+id/increase2"
+                />
+            <Button
+                android:layout_width="75dp"
+                android:layout_height="wrap_content"
+
+                android:text="down"
+                android:id="@+id/decrease2"
+                />
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="mnbuy"
+            android:textSize="40dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/moneyspent"
+            />
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sell"
+            android:textSize="40dp"
+            android:id="@+id/tosell"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/balance"
+            android:text="dsf"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="buy"
+            android:textSize="40dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/tobuy"
+
+            />
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>

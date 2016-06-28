@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    tools:context="com.example.denghaoqin.virtualstock.MainActivity">
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="30dp"
+    android:text="out"
+    android:textSize="9dp"
+    android:id="@+id/out"
+    />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="NEW ORIEANT"
+            android:textSize="24dp"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:id="@+id/stock0"
+            android:onClick="onClickit()"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:textSize="24dp"
+            android:text="343"
+            android:id="@+id/orientation"
+
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="MR GREEN"
+            android:textSize="24dp"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:id="@+id/stock1"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text=""
+            android:id="@+id/mrgreen"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:textSize="24dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ATOM"
+            android:textSize="24dp"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:id="@+id/stock2"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text=""
+            android:id="@+id/atom"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:textSize="24dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ROBOT C"
+            android:textSize="24dp"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:id="@+id/stock3"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/robotc"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:textSize="24dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="GOLDRUSH"
+            android:textSize="24dp"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:id="@+id/stock4"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="23"
+            android:id="@+id/goldrush"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:textSize="24dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="NELSONMURDOCK"
+            android:textSize="24dp"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:id="@+id/stock5"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentRight="true"
+            android:text="12"
+            android:id="@+id/nelson"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"
+            android:textSize="24dp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="next 5 min"
+            android:id="@+id/fivemin"
+            android:onClick="onClickit()"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="next 15 min"
+            android:id="@+id/fifteenmin"
+            android:onClick="onClickit()"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="next 30 min"
+            android:id="@+id/thirtymin"
+            android:onClick="onClickit()"
+            />
+        <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="10dp"
+        android:text="save"
+            android:id="@+id/save"
+            android:onClick="onClickit()"
+        />
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:visibility="gone"
+           android:textSize="10dp"
+           android:text="next day"
+           android:id="@+id/nextday"
+           android:onClick="onClickit()"
+
+           />
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
